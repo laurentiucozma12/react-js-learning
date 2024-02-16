@@ -1,6 +1,6 @@
 # ReactJS Learning
 - This project is just for learning purpose.
-- Here I will upload everything I learned from [ReactJS Tutorial](https://www.youtube.com/watch?v=CgkZ7MvWUAA)
+- Here I will upload everything I learn from [ReactJS Tutorial](https://www.youtube.com/watch?v=CgkZ7MvWUAA)
 ## ReactJS
 - React is a JavaScript Library, not framework
 - React focuses on building web apps using components
