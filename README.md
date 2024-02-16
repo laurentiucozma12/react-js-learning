@@ -14,3 +14,22 @@
 - This reduces rendering performance overhead
 ## Resources
 - [NodeJS](https://nodejs.org/en)
+## Process
+- After downloading NodeJS, we will open the console and type the following commands:
+```
+npm create vite@latest
+Project name: my-react-app
+√ Select a framework: » React
+√ Select a variant: » JavaScript
+```
+- After creating the project, type the following commands:
+```
+cd my-react-app
+npm install
+npm run dev
+```
+- If you close the editor, and come back later, you just have to enter the project folder and start the server:
+```
+cd my-react-app
+npm run dev
+```
