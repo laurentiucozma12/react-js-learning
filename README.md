@@ -33,3 +33,87 @@ npm run dev
 cd my-react-app
 npm run dev
 ```
+- Go to my-react-app/src/App.jsx and delete everything inside App() method and the imports.
+- So you should have only those inside App.jsx:
+```jsx
+function App() {
+  
+}
+
+export default App
+```
+- Delete App.css
+- Inside src folder create a Header.jsx file and write:
+```jsx
+
+function Header(){
+
+    return(
+        <header>
+            <h1>My website</h1>
+            <nav>
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Services</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </nav>
+            <hr />
+        </header>
+    );
+}
+
+export default Header
+```
+- Inside src folder create a Footer.jsx file and write:
+```jsx
+function Footer(){
+    return(
+        <footer>
+            <p>&copy; {new Date().getFullYear()} Your website name</p>
+        </footer>
+    );
+}
+
+export default Footer
+```
+- Inside src folder create a Food.jsx file and write:
+```jsx
+
+function Food(){
+
+    const food1 = "Orange";
+    const food2 = "Banana";
+
+    return(
+        <ul>
+            <li>Apple</li>
+            <li>{food1}</li>
+            <li>{food2.toUpperCase()}</li>
+        </ul>
+    );
+}
+
+export default Food
+```
+- Inside App.jsx add:
+```jsx
+import Header from './Header.jsx'
+import Food from './Food.jsx'
+import Footer from './Footer.jsx'
+
+function App() {
+  
+  return(
+    <>
+      <Header/>
+      <Food/>
+      <Footer/>
+    </>
+  );
+}
+
+export default App
+```
+- Now you are ready to go!
