@@ -109,6 +109,8 @@ function App() {
     <>
       <Header/>
       <Food/>
+      <Food/>
+      <Food/>
       <Footer/>
     </>
   );
