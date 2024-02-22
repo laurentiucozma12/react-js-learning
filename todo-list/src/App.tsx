@@ -4,7 +4,6 @@ import { dummyData } from "./data/todos";
 import AddTodoForm from "./components/AddTodoForm";
 
 function App() {
-  // Related to Example 8
   const [todos, setTodos] = useState(dummyData);
   function setTodoCompleted(id: number, completed: boolean) {
     setTodos((prevTodos) => 
