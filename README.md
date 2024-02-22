@@ -2,7 +2,6 @@
 - This project is just for learning purpose.
 - Here I will upload everything I learn from:
   - [ReactJS Tutorial](https://www.youtube.com/watch?v=CgkZ7MvWUAA)
-  - [React Beginner Course 2024 (Vite, Tailwind CSS, TypeScript)](https://www.youtube.com/watch?v=siTUv1L9ymM)
 
 ## ReactJS
 - React is a JavaScript Library, not framework
