@@ -1,10 +1,10 @@
 # ReactJS Learning
-
 - This project is just for learning purpose.
-- Here I will upload everything I learn from [ReactJS Tutorial](https://www.youtube.com/watch?v=CgkZ7MvWUAA)
+- Here I will upload everything I learn from:
+  - [ReactJS Tutorial](https://www.youtube.com/watch?v=CgkZ7MvWUAA)
+  - [React Beginner Course 2024 (Vite, Tailwind CSS, TypeScript)](https://www.youtube.com/watch?v=siTUv1L9ymM)
 
 ## ReactJS
-
 - React is a JavaScript Library, not framework
 - React focuses on building web apps using components
 - A component is a self-contained section of code that functions as a reusable building block
@@ -17,11 +17,9 @@
 - This reduces rendering performance overhead
 
 ## Resources
-
 - [NodeJS](https://nodejs.org/en)
 
 ## Process
-
 - After downloading NodeJS, we will open the console and type the following commands:
 
 ```
