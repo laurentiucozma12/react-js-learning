@@ -10,6 +10,8 @@
 // Ex 7
 // import List2 from './List2.jsx'
 
+import ProfilePicture from './ProfilePicture.jsx'
+
 function App() {
   
   // Related to Example 7  
@@ -58,6 +60,11 @@ function App() {
       /* {fruits.length > 0 && <List2 items={fruits} category="Fruits"/>}
       {vegetables.length > 0 && <List2 items={vegetables} category="Vegetables"/>} */}   
  
+      {/* Example 8 */}
+      {/* <Button/> */}
+
+      {/* Example 9 */}
+      <ProfilePicture/>
     </>
   );
 }
