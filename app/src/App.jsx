@@ -10,7 +10,11 @@
 // Ex 7
 // import List2 from './List2.jsx'
 
-import ProfilePicture from './ProfilePicture.jsx'
+// import ProfilePicture from './ProfilePicture.jsx'
+
+// Example 10 
+// import MyComponent from './MyComponent.jsx';
+import Counter from './Counter.jsx';
 
 function App() {
   
@@ -64,7 +68,11 @@ function App() {
       {/* <Button/> */}
 
       {/* Example 9 */}
-      <ProfilePicture/>
+      {/* <ProfilePicture/> */}
+
+      {/* Example 10 */}
+      {/* <MyComponent/> */}
+      <Counter/>
     </>
   );
 }
