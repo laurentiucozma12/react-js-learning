@@ -16,6 +16,9 @@
 // import MyComponent from './MyComponent.jsx';
 import Counter from './Counter.jsx';
 
+// Example 11
+import MyComponent2 from './MyComponent2.jsx';
+
 function App() {
   
   // Related to Example 7  
@@ -73,6 +76,9 @@ function App() {
       {/* Example 10 */}
       {/* <MyComponent/> */}
       <Counter/>
+
+      {/* Example 11 */}
+      <MyComponent2/>
     </>
   );
 }
