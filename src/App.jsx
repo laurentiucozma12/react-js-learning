@@ -14,10 +14,13 @@
 
 // Example 10
 // import MyComponent from './MyComponent.jsx';
-import Counter from "./Counter.jsx";
+// import Counter from "./Counter.jsx";
 
 // Example 11
-import MyComponent2 from "./MyComponent2.jsx";
+// import MyComponent2 from "./MyComponent2.jsx";
+
+// Example 12
+import ColorPicker from "./ColorPicker.jsx";
 
 function App() {
   // Related to Example 7
@@ -74,10 +77,13 @@ function App() {
 
       {/* Example 10 */}
       {/* <MyComponent/> */}
-      <Counter />
+      {/* <Counter /> */}
 
       {/* Example 11 */}
-      <MyComponent2 />
+      {/* <MyComponent2 /> */}
+
+      {/* Example 12 */}
+      <ColorPicker />
     </>
   );
 }
