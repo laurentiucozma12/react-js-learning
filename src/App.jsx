@@ -20,7 +20,13 @@
 // import MyComponent2 from "./MyComponent2.jsx";
 
 // Example 12
-import ColorPicker from "./ColorPicker.jsx";
+// import ColorPicker from "./ColorPicker.jsx";
+
+// Example 13
+// import UpdaterFunction from "./UpdaterFunction.jsx";
+
+// Example 14
+import UpdateObject from "./UpdateObject.jsx";
 
 function App() {
   // Related to Example 7
@@ -83,7 +89,13 @@ function App() {
       {/* <MyComponent2 /> */}
 
       {/* Example 12 */}
-      <ColorPicker />
+      {/* <ColorPicker /> */}
+
+      {/* Example 13 */}
+      {/* <UpdaterFunction /> */}
+
+      {/* Example 14 */}
+      <UpdateObject />
     </>
   );
 }
