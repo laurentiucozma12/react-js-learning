@@ -1,8 +1,12 @@
 # ReactJS Learning
 
 - This project is just for learning purpose.
-- Here I will upload everything I learn from:
-  - [ReactJS Tutorial](https://www.youtube.com/watch?v=CgkZ7MvWUAA)
+
+## Resources
+
+- [ReactJS Tutorial](https://www.youtube.com/watch?v=CgkZ7MvWUAA)
+- [React Doc](https://react.dev/reference/react/useState)
+- [NodeJS](https://nodejs.org/en)
 
 ## ReactJS
 
@@ -16,10 +20,6 @@
 - React also uses a virtual DOM, it's a lightweight version of the real DOM of a web page
 - We can keep track of any changes made to the virtual DOM and only apply that specific change to the real DOM without needing to refresh the entire page, only that specific section
 - This reduces rendering performance overhead
-
-## Resources
-
-- [NodeJS](https://nodejs.org/en)
 
 ## Process
 
