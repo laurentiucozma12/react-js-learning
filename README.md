@@ -1,9 +1,11 @@
 # ReactJS Learning
+
 - This project is just for learning purpose.
 - Here I will upload everything I learn from:
   - [ReactJS Tutorial](https://www.youtube.com/watch?v=CgkZ7MvWUAA)
 
 ## ReactJS
+
 - React is a JavaScript Library, not framework
 - React focuses on building web apps using components
 - A component is a self-contained section of code that functions as a reusable building block
@@ -16,9 +18,11 @@
 - This reduces rendering performance overhead
 
 ## Resources
+
 - [NodeJS](https://nodejs.org/en)
 
 ## Process
+
 - After downloading NodeJS, we will open the console and type the following commands:
 
 ```
@@ -63,16 +67,16 @@ function Header() {
       <nav>
         <ul>
           <li>
-            <a href='#'>Home</a>
+            <a href="#">Home</a>
           </li>
           <li>
-            <a href='#'>About</a>
+            <a href="#">About</a>
           </li>
           <li>
-            <a href='#'>Services</a>
+            <a href="#">Services</a>
           </li>
           <li>
-            <a href='#'>Contact</a>
+            <a href="#">Contact</a>
           </li>
         </ul>
       </nav>
@@ -102,8 +106,8 @@ export default Footer;
 
 ```jsx
 function Food() {
-  const food1 = 'Orange';
-  const food2 = 'Banana';
+  const food1 = "Orange";
+  const food2 = "Banana";
 
   return (
     <ul>
@@ -120,9 +124,9 @@ export default Food;
 - Inside App.jsx add:
 
 ```jsx
-import Header from './Header.jsx';
-import Food from './Food.jsx';
-import Footer from './Footer.jsx';
+import Header from "./Header.jsx";
+import Food from "./Food.jsx";
+import Footer from "./Footer.jsx";
 
 function App() {
   return (

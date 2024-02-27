@@ -1,4 +1,4 @@
-body{
+body {
   color: hsl(0, 0%, 100%);
   background-color: hsl(0, 0%, 13%);
 }
@@ -6,7 +6,7 @@ a {
   color: hsl(0, 0%, 100%);
 }
 
-.card{
+.card {
   border: 5px solid hsl(0, 0%, 9%);
   border-radius: 10px;
   box-shadow: 5px 5px 5px hsl(0, 0%, 0%, 0.1);
@@ -18,35 +18,35 @@ a {
   display: inline-block;
 }
 
-.card .card-image{
+.card .card-image {
   max-width: 60%;
   height: auto;
   border-radius: 50%;
   margin-bottom: 10px;
 }
 
-.card .card-title{
+.card .card-title {
   font-family: Arial, sans-serif;
   margin: 0;
   color: hsl(276, 84%, 57%);
 }
 
-.card .card-text{
+.card .card-text {
   font-family: Arial, sans-serif;
   color: hsl(276, 84%, 57%);
 }
 
-.student{
+.student {
   font-family: Arial, sans-serif;
   font-size: 2em;
   padding: 10px;
   border: 1px solid hsl(0, 50%, 0%, 0.8);
 }
-.student p{
+.student p {
   margin: 0;
 }
 
-.welcome-message{
+.welcome-message {
   font-size: 2.5em;
   background-color: hsl(120, 100%, 42%);
   color: white;
@@ -55,7 +55,7 @@ a {
   margin: 0;
 }
 
-.login-prompt{
+.login-prompt {
   font-size: 2.5em;
   background-color: hsl(0, 100%, 42%);
   color: white;
@@ -64,7 +64,7 @@ a {
   margin: 0;
 }
 
-.list-category{
+.list-category {
   font-size: 2.5em;
   font-weight: bold;
   color: hsl(0, 0%, 20%);
@@ -75,7 +75,7 @@ a {
   background-color: hsl(185, 100%, 50%);
 }
 
-.list-items{
+.list-items {
   font-size: 2em;
   list-style: none;
   color: hsl(0, 0%, 25%);
@@ -83,7 +83,7 @@ a {
   margin: 0;
 }
 
-.list-items li:hover{
+.list-items li:hover {
   color: hsl(0, 0%, 45%);
   cursor: pointer;
 }
