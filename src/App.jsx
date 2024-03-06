@@ -26,7 +26,10 @@
 // import UpdaterFunction from "./UpdaterFunction.jsx";
 
 // Example 14
-import UpdateObject from "./UpdateObject.jsx";
+// import UpdateObject from "./UpdateObject.jsx";
+
+// Example 15
+import UpdateArray from "./UpdateArray.jsx";
 
 function App() {
   // Related to Example 7
@@ -48,54 +51,43 @@ function App() {
       /* <Header/>
       <Food/>
       <Footer/> */}
-
       {/* Example 2 */
       /* <Card/>
       <Card/>
       <Card/>
       <Card/> */}
-
       {/* Example 3 */
       /* <Button/> */}
-
       {/* Example 4 */
       /* <Student name="Spongebob" age={30} isStudent={true}/>
       <Student name="Patrick" age={42} isStudent={false}/>
       <Student name="Squidward" age={50} isStudent={false}/>
       <Student name="Sandy" age={27} isStudent={true}/>
       <Student name="Lary"/> */}
-
       {/* Example 5 */
       /* <UserGreeting isLoggedIn={true} username="Epic Game News"/> */}
-
       {/* Example 6 */
       /* <List/> */}
-
       {/* Example 7 */
       /* {fruits.length > 0 && <List2 items={fruits} category="Fruits"/>}
       {vegetables.length > 0 && <List2 items={vegetables} category="Vegetables"/>} */}
-
       {/* Example 8 */}
       {/* <Button/> */}
-
       {/* Example 9 */}
       {/* <ProfilePicture/> */}
-
       {/* Example 10 */}
       {/* <MyComponent/> */}
       {/* <Counter /> */}
-
       {/* Example 11 */}
       {/* <MyComponent2 /> */}
-
       {/* Example 12 */}
       {/* <ColorPicker /> */}
-
       {/* Example 13 */}
       {/* <UpdaterFunction /> */}
-
       {/* Example 14 */}
-      <UpdateObject />
+      {/* <UpdateObject /> */}
+      {/* Example 15 */}
+      <UpdateArray />
     </>
   );
 }
