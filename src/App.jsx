@@ -32,7 +32,10 @@
 // import UpdateArray from "./UpdateArray.jsx";
 
 // Example 16
-import UseStateHook from "./UseStateHook.jsx";
+// import UseStateHook from "./UseStateHook.jsx";
+
+// Example 17
+import UseEffectHook from "./UseEffectHook.jsx";
 
 function App() {
   // Related to Example 7
@@ -92,7 +95,9 @@ function App() {
       {/* Example 15 */}
       {/* <UpdateArray /> */}
       {/* Example 16 */}
-      <UseStateHook />
+      {/* <UseStateHook /> */}
+      {/* Example 17 */}
+      <UseEffectHook />
     </>
   );
 }

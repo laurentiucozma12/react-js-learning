@@ -7,6 +7,8 @@
 - [ReactJS Tutorial](https://www.youtube.com/watch?v=CgkZ7MvWUAA)
 - [React Doc](https://react.dev/reference/react/useState)
 - [NodeJS](https://nodejs.org/en)
+- [useStateHook](https://www.youtube.com/watch?v=V9i3cGD-mts)
+- [useEffectHook](https://www.youtube.com/watch?v=-4XpG5_Lj_o)
 
 ## ReactJS
 
