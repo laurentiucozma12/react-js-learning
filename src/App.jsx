@@ -29,7 +29,10 @@
 // import UpdateObject from "./UpdateObject.jsx";
 
 // Example 15
-import UpdateArray from "./UpdateArray.jsx";
+// import UpdateArray from "./UpdateArray.jsx";
+
+// Example 16
+import UseStateHook from "./UseStateHook.jsx";
 
 function App() {
   // Related to Example 7
@@ -87,7 +90,9 @@ function App() {
       {/* Example 14 */}
       {/* <UpdateObject /> */}
       {/* Example 15 */}
-      <UpdateArray />
+      {/* <UpdateArray /> */}
+      {/* Example 16 */}
+      <UseStateHook />
     </>
   );
 }
